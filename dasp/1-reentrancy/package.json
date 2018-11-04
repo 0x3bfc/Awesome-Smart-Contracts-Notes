@@ -1,0 +1,63 @@
+{
+  "name": "@aabdulwahed/awesome-sc-security-reentrancy",
+  "version": "0.0.1",
+  "description": "Awesome Smart Contract Security by example",
+  "bugs": {
+    "url": "https://github.com/aabdulwahed/AwesomeSCSecurity/issues"
+  },
+  "homepage": "https://github.com/aabdulwahed/AwesomeSCSecurity/issues",
+  "main": "truffle.js",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "test": "truffle test",
+    "test:cover": "solidity-coverage",
+    "clean": "rm -rf ./build/",
+    "lint": "npm run lint:eslint && npm run lint:solium",
+    "lint:eslint": "eslint --ignore-pattern '/coverage/' .",
+    "lint:solium": "solium -d ./contracts/",
+    "lint:solium:watch": "npm run lint:solium -- --watch",
+    "lint:mythril": "truffle compile && myth -x --truffle --max-depth 8 --outform markdown > mythril-report.md",
+    "lint:fix": "npm run lint:eslint -- --fix && npm run lint:solium -- --fix"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "files": [
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aabdulwahed/AwesomeSCSecurity.git"
+  },
+  "author": "Ahmed Ali <ahmedaabdulwahed@gmail.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "babel-preset-env": "^1.7.0",
+    "bignumber.js": "^7.2.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-standard": "^4.0.0",
+    "ethereumjs-abi": "^0.6.5",
+    "ethers": "^4.0.7",
+    "ethjs": "^0.4.0",
+    "ethjs-abi": "^0.2.1",
+    "ethjs-provider-http": "^0.1.6",
+    "ethjs-rpc": "^0.2.0",
+    "openzeppelin-solidity": "^2.0.0",
+    "solidity-coverage": "^0.5.11",
+    "solium": "^1.1.8",
+    "truffle": "^5.0.0-user-level-mnemonic.0",
+    "truffle-config": "^1.0.4",
+    "truffle-expect": "0.0.4",
+    "truffle-hdwallet-provider": "^1.0.0-web3one.0",
+    "ursa": "^0.9.4",
+    "web3": "1.0.0-beta.36",
+    "web3-eth-abi": "^1.0.0-beta.36",
+    "web3-utils": "^1.0.0-beta.36"
+  },
+  "engines": {
+    "node": ">=8.11.1"
+  }
+}

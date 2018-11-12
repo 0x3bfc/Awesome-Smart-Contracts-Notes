@@ -48,5 +48,6 @@ install, compile and migrate the following contracts
 
 ### References:
 - [Solidity Documentation: Reentrancy](https://solidity.readthedocs.io/en/develop/security-considerations.html#re-entrancy)
+- [Fallback functions and the fundamental limitations of using send() in Ethereum & Solidity](https://github.com/ConsenSys/Ethereum-Development-Best-Practices/wiki/Fallback-functions-and-the-fundamental-limitations-of-using-send%28%29-in-Ethereum-&-Solidity)
 - [Ethereum Blogpost Smart Contract Security](https://blog.ethereum.org/2016/06/10/smart-contract-security/)
 

@@ -3,8 +3,7 @@
 
 #### Code Examples:
 
-   - [Bad Auction](contracts/BadAuction.sol) contract
-     -  [Attacking Bad Auction](contracts/AttackBadAuction.sol)
+   1. [Transfer Ether](contracts/TransferEth.sol)  and [Attacking Transfer Ether](contracts/AttackTransferEth.sol) contracts.
 #### Quick start
 ##### 1. starting TestNet
 
@@ -20,6 +19,24 @@ install, compile and migrate the following contracts
     $ npm install
     $ npm run compile
     $ npm run migrate 
+```
+
+#### 3. Run attacks
+
+```
+    $ turffle test
+```
+
+```bash
+ Contract: AttackTransferEth
+    Test Reentrancy Attack of Bad Transfer Ether Contract
+         > Count:  1 Attacker Contract Balance: 500000000000000000
+         > Count:  2 Attacker Contract Balance: 1000000000000000000
+         > Count:  3 Attacker Contract Balance: 1500000000000000000
+         > Count:  4 Attacker Contract Balance: 2000000000000000000
+         > Count:  5 Attacker Contract Balance: 2500000000000000000
+      ✓ Should able to attack the transfer ether contract (65ms)
+
 ```
 
 ### References:

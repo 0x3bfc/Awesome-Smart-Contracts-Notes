@@ -6,14 +6,15 @@ pragma solidity ^0.4.25;
 
 contract BadAuction {
 
-  address highestBidder;
-  uint highestBid;
+  address highestBidder = address(0);
+  uint256 highestBid = 0;
 
-  function bid(uint _value) public {
-    if (_value < highestBid) throw;
-    if (highestBidder != 0)
-      highestBidder.send(highestBid); // refund previous bidder
-    highestBidder = msg.sender;
-    highestBid = _value;
+    function bid() public payable {
+        if (msg.value < highestBid) throw;
+        if (highestBidder != address(0))
+            if(highestBidder.call.value(highestBid)()) throw;
+
+        highestBidder = msg.sender;
+        highestBid = msg.value;
   }
 }

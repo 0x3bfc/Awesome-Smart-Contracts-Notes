@@ -7,9 +7,10 @@
 List of common security issues in decentralized apps and smart contract vector attacks by **example**.
 
 
-#### Awesome Ethereum Readings
+#### Awesome Ethereum Security Readings
 
 - [Ethereum Protocol Design Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale) 
+- [A Survey of Attacks on Ethereum Smart Contracts](https://eprint.iacr.org/2016/1007.pdf)
 
 ## Contributing
 For any new issue, feature, or update, create a pull request and we will add it there. Ping me on Twitter: [@aabdolwahed](https://twitter.com/aabdolwahed)

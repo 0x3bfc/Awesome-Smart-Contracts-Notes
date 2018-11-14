@@ -22,8 +22,8 @@ contract('AttackTransferEth', (accounts) => {
         it('Should able to attack the transfer ether contract', async () => {
 
             const attack = await attackTransferEth.attack(5, 500000000000000000, { from: accounts[2] })
-            for(var i = 0; i < 5;i++) {
-                console.log('\t > Count: ', attack.logs[i].args.i.toNumber(), 'Attacker Contract Balance:', attack.logs[i].args.balance.toNumber())
+            for(var i = 0; i < attack.logs.length ;i++) {
+                console.log('\t > Count: ', attack.logs[i].args.i.toNumber(), 'Attacker Contract Balance:', attack.logs[i].args.balance)
             }
         })
     })

@@ -8,6 +8,7 @@
   "homepage": "https://github.com/aabdulwahed/AwesomeSCSecurity/issues",
   "main": "truffle.js",
   "scripts": {
+    "preinstall": "solium",
     "compile": "truffle compile",
     "migrate": "truffle migrate",
     "test": "truffle test",
@@ -29,9 +30,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aabdulwahed/AwesomeSCSecurity.git"
-  },
-  "scripts": {
-        "preinstall": "grunt"
   },
   "author": "Ahmed Ali <ahmedaabdulwahed@gmail.com>",
   "license": "Apache-2.0",

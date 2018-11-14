@@ -11,6 +11,7 @@ This is a curated list of common design patterns
    
 #### 3. ICS Pattern
    - [Upgradable Storage-Logic Pattern](https://medium.com/cardstack/upgradable-contracts-in-solidity-d5af87f0f913)
-
-#### 4. Checks-Effects-Interactions Pattern
+#### 4. Factory Pattern
+   - [TBC](#) 
+#### 5. Checks-Effects-Interactions Pattern
    - [Solidity Documentation](https://solidity.readthedocs.io/en/develop/security-considerations.html#use-the-checks-effects-interactions-pattern)

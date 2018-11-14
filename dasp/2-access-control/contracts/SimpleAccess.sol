@@ -1,8 +1,9 @@
 pragma solidity ^0.4.25;
 
-contract SimpleBadAccess{
+contract SimpleAccess{
 
     address private owner;
+
     modifier isOwner() {
         require(msg.sender == owner, 'access denied');
         _;

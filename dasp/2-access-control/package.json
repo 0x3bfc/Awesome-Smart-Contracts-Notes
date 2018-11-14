@@ -30,9 +30,6 @@
     "type": "git",
     "url": "git+https://github.com/aabdulwahed/AwesomeSCSecurity.git"
   },
-  "scripts": {
-        "preinstall": "grunt"
-  },
   "author": "Ahmed Ali <ahmedaabdulwahed@gmail.com>",
   "license": "Apache-2.0",
   "devDependencies": {

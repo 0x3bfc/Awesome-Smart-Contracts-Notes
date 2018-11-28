@@ -14,4 +14,4 @@ test cases, examples and references.
 5. [References](docs/References.md)
 
 ## Contributing
-For any new issue, feature, or update, create a pull request and we will add it there. Ping me on Twitter: [@aabdolwahed-twitter](https://twitter.com/aabdolwahed) or [@aabdulwahed-linkedIn](https://www.linkedin.com/in/aabdulwahed/).
+For any new issue, feature, or update, create a pull request and we will add it there. Ping me on Twitter: [twitter](https://twitter.com/aabdolwahed) or [linkedIn](https://www.linkedin.com/in/aabdulwahed/).

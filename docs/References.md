@@ -10,3 +10,6 @@
 
 ### Tools
 - [Homomorphic Encryption tool - SEAL](https://github.com/Microsoft/SEAL)
+
+### Ethereum
+- [Getting Deep into Ethereum Virtual Machine - EVM](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015)

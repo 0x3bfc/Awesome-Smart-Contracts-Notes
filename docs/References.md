@@ -13,3 +13,4 @@
 
 ### Ethereum
 - [Getting Deep into Ethereum Virtual Machine - EVM](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015)
+- [16 Solidity hacks vulnerabilities](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)

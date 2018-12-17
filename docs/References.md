@@ -1,5 +1,7 @@
 ## References
 
+### Research Papers
+- [Decrypting Distributed Ledger Design - Taxonomy, Classification and Blockchain Community Evaluation ETH-Zurich](https://arxiv.org/pdf/1811.03419.pdf)
 ### Cryptography
 - [BLS signatures better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [Elliptic Curve Cryptography ECDH & ECDSA](http://andrea.corbellini.name/2015/05/30/elliptic-curve-cryptography-ecdh-and-ecdsa/)

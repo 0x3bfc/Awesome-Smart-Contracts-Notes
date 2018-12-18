@@ -1,7 +1,5 @@
 ## References
 
-### Research Papers
-- [Decrypting Distributed Ledger Design - Taxonomy, Classification and Blockchain Community Evaluation ETH-Zurich](https://arxiv.org/pdf/1811.03419.pdf)
 ### Economics (token-engineering)
 - [Around the Block](https://cdn2.hubspot.net/hubfs/5014428/around_the_block.pdf)
 

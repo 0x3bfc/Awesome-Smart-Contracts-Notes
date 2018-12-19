@@ -1,5 +1,5 @@
 ## References
-### Signalling
+### Signaling
 - [Mechanisms for Enforcing Honest Signaling](http://ices.gmu.edu/wp-content/uploads/2012/09/Mechanisms-for-Enforcing-Honest-Signaling-by-Ahern-and-Clark.pdf)
 ### Economics (token-engineering)
 - [Around the Block](https://cdn2.hubspot.net/hubfs/5014428/around_the_block.pdf)

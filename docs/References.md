@@ -1,10 +1,5 @@
 ## References
 
-### Signaling
-- [Mechanisms for Enforcing Honest Signaling](http://ices.gmu.edu/wp-content/uploads/2012/09/Mechanisms-for-Enforcing-Honest-Signaling-by-Ahern-and-Clark.pdf)
-### Economics (token-engineering)
-- [Around the Block](https://cdn2.hubspot.net/hubfs/5014428/around_the_block.pdf)
-
 ### Cryptography
 - [BLS signatures better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [Elliptic Curve Cryptography ECDH & ECDSA](http://andrea.corbellini.name/2015/05/30/elliptic-curve-cryptography-ecdh-and-ecdsa/)
@@ -23,3 +18,10 @@
 
 ### Acess Control
 - [The FROST Language: A trusted and user-centric access control language: Enabling delegation of fine-grained policies in shared ecosystems](https://xain.foundation/assets/downloads/xain-frost-yellow-paper.pdf)
+
+### Signaling
+- [Mechanisms for Enforcing Honest Signaling](http://ices.gmu.edu/wp-content/uploads/2012/09/Mechanisms-for-Enforcing-Honest-Signaling-by-Ahern-and-Clark.pdf)
+- [The Determination of Financial Structure: The Incentive-Signalling Approach](https://www.jstor.org/stable/3003485?seq=1#metadata_info_tab_contents)
+
+### Economics (token-engineering)
+- [Around the Block](https://cdn2.hubspot.net/hubfs/5014428/around_the_block.pdf)

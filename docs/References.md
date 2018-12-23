@@ -25,3 +25,6 @@
 
 ### Economics (token-engineering)
 - [Around the Block](https://cdn2.hubspot.net/hubfs/5014428/around_the_block.pdf)
+
+### Official Documentation
+- [Solidity Documentation](https://solidity.readthedocs.io/en/v0.5.0/)

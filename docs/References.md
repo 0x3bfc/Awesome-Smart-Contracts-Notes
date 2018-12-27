@@ -4,6 +4,7 @@
 - [Solidity Documentation](https://solidity.readthedocs.io/en/v0.5.0/)
 - [EVM Awesome list](https://github.com/ethereum/wiki/wiki/Ethereum-Virtual-Machine-(EVM)-Awesome-List)
 - [Ethereum Design-Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale)
+- [Ethereum 2.0 Specifications](https://github.com/ethereum/eth2.0-specs)
 
 ### Cryptography
 - [BLS signatures better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)

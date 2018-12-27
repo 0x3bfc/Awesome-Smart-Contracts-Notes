@@ -1,10 +1,12 @@
 ### Upgradability tools
 - [Zeppelin-OS](https://zeppelinos.org/)
 
-### Reporting
+### Reporting tools
 - [ConsenSys/Surya: A Solidity Inspector](https://github.com/ConsenSys/surya)
 ### Security analysis tools
 - [ConsenSys/mythril-classic](https://github.com/ConsenSys/mythril-classic)
 
 ### Programming Languages that Compile zk-SNARK Circuits and Proofs
-- [ZoKrates - A toolbox for zkSNARKs on Ethereum](https://github.com/Zokrates/ZoKrates)
+- [ZoKrates: A toolbox for zkSNARKs on Ethereum](https://github.com/Zokrates/ZoKrates)
+- [Snarky: OCaml front-end for writing R1CS SNARKs](https://github.com/o1-labs/snarky)
+- [Jsnark: A Java front-end for writing R1CS SNARKs](https://github.com/akosba/jsnark)

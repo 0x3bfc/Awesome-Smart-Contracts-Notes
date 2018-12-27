@@ -1,5 +1,10 @@
 ## References
 
+### Official Documentation
+- [Solidity Documentation](https://solidity.readthedocs.io/en/v0.5.0/)
+- [EVM Awesome list](https://github.com/ethereum/wiki/wiki/Ethereum-Virtual-Machine-(EVM)-Awesome-List)
+- [Ethereum Design-Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale)
+
 ### Cryptography
 - [BLS signatures better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [Elliptic Curve Cryptography ECDH & ECDSA](http://andrea.corbellini.name/2015/05/30/elliptic-curve-cryptography-ecdh-and-ecdsa/)
@@ -25,6 +30,3 @@
 
 ### Economics (token-engineering)
 - [Around the Block](https://cdn2.hubspot.net/hubfs/5014428/around_the_block.pdf)
-
-### Official Documentation
-- [Solidity Documentation](https://solidity.readthedocs.io/en/v0.5.0/)

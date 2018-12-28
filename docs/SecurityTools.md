@@ -11,3 +11,6 @@
 - [ZoKrates: A toolbox for zkSNARKs on Ethereum](https://github.com/Zokrates/ZoKrates)
 - [Snarky: OCaml front-end for writing R1CS SNARKs](https://github.com/o1-labs/snarky)
 - [Jsnark: A Java front-end for writing R1CS SNARKs](https://github.com/akosba/jsnark)
+
+### Homomorphic Encryption
+- [Homomorphic Encryption tool - SEAL, Microsoft](https://github.com/Microsoft/SEAL)

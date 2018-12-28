@@ -4,3 +4,4 @@
 - [Decrypting Distributed Ledger Design - Taxonomy, Classification and Blockchain Community Evaluation ETH-Zurich](https://arxiv.org/pdf/1811.03419.pdf)
 - [Securify: Practical Security Analysis of Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs18-securify.pdf)
 - Blockchains as Kripke models: an Analysis of Atomic CrossChain Swap [slides](https://yoichihirai.com/isola.pdf), [draft](https://yoichihirai.com/isola-paper.pdf)
+- [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://orbilu.uni.lu/bitstream/10993/35862/1/smartcheck-paper.pdf)

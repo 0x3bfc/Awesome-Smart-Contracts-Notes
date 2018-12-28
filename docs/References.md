@@ -21,6 +21,7 @@
 - [From Solidity to Ethereum Bytecode - understanding the compiler internals](https://www.youtube.com/watch?v=e7yZZILUjyM)
 - [Getting Deep into Ethereum Virtual Machine - EVM](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015)
 - [16 Solidity hacks vulnerabilities](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)
+- [Ethereum EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 
 ### Acess Control
 - [The FROST Language: A trusted and user-centric access control language: Enabling delegation of fine-grained policies in shared ecosystems](https://xain.foundation/assets/downloads/xain-frost-yellow-paper.pdf)

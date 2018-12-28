@@ -18,10 +18,7 @@
 - [Predicting RNGs in Smart Contracts - Blogpost](https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620)
 - [Shamirs Secret Sharing Scheme](https://ericrafaloff.com/shamirs-secret-sharing-scheme/)
 
-### Tools
-- [Homomorphic Encryption tool - SEAL](https://github.com/Microsoft/SEAL)
-
-### Ethereum
+### Blog posts
 - [From Solidity to Ethereum Bytecode - understanding the compiler internals](https://www.youtube.com/watch?v=e7yZZILUjyM)
 - [Getting Deep into Ethereum Virtual Machine - EVM](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015)
 - [16 Solidity hacks vulnerabilities](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)

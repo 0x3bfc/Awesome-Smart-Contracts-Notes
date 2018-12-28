@@ -6,6 +6,7 @@
 ### Security analysis tools
 - [ConsenSys/mythril-classic](https://github.com/ConsenSys/mythril-classic)
 - [eth-sri/Securify: smart contract security scanner](https://github.com/eth-sri/securify)
+- [smartdec/smartcheck: static analysis](https://github.com/smartdec/smartcheck)
 
 ### Programming Languages that Compile zk-SNARK Circuits and Proofs
 - [ZoKrates: A toolbox for zkSNARKs on Ethereum](https://github.com/Zokrates/ZoKrates)

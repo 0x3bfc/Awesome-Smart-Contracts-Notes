@@ -12,6 +12,7 @@
 
 ### Cryptography
 - [BLS signatures better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
+- [CryptoLUX: University of Luxembourg](https://www.cryptolux.org/index.php/Home)
 - [Elliptic Curve Cryptography ECDH & ECDSA](http://andrea.corbellini.name/2015/05/30/elliptic-curve-cryptography-ecdh-and-ecdsa/)
 - [RNGs for Ethereum - Collection of Posts](https://github.com/gluk256/misc/tree/master/rng4ethereum)
 - [Useful snippets of js code for interacting with Smart Contracts](https://github.com/pertsev/web3_utilz)

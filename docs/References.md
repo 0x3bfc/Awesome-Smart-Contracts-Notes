@@ -18,6 +18,7 @@
 - [Useful snippets of js code for interacting with Smart Contracts](https://github.com/pertsev/web3_utilz)
 - [Predicting RNGs in Smart Contracts - Blogpost](https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620)
 - [Shamirs Secret Sharing Scheme](https://ericrafaloff.com/shamirs-secret-sharing-scheme/)
+- [History of Hash Function Attacks](https://z.cash/blog/hash-functions/)
 
 ### Blog posts
 - [From Solidity to Ethereum Bytecode - understanding the compiler internals](https://www.youtube.com/watch?v=e7yZZILUjyM)

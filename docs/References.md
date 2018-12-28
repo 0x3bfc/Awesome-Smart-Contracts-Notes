@@ -6,6 +6,10 @@
 - [Ethereum Design-Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale)
 - [Ethereum 2.0 Specifications](https://github.com/ethereum/eth2.0-specs)
 
+### Vulnerability Registries
+- [SWC Registry: Smart Contract Weakness Classification and Test Cases](https://smartcontractsecurity.github.io/SWC-registry/)
+- [Decentralized Application Security Project (or DASP) Top 10 of 2018](https://www.dasp.co/)
+
 ### Cryptography
 - [BLS signatures better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [Elliptic Curve Cryptography ECDH & ECDSA](http://andrea.corbellini.name/2015/05/30/elliptic-curve-cryptography-ecdh-and-ecdsa/)

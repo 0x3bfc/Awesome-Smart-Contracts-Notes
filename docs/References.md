@@ -10,6 +10,9 @@
 - [SWC Registry: Smart Contract Weakness Classification and Test Cases](https://smartcontractsecurity.github.io/SWC-registry/)
 - [Decentralized Application Security Project (or DASP) Top 10 of 2018](https://www.dasp.co/)
 
+### Top-10 Vulnerabilities [Solidity Examples]:
+- [trailofbits/not-so-smart-contracts](https://github.com/trailofbits/not-so-smart-contracts)
+
 ### Cryptography
 - [BLS signatures better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [CryptoLUX: University of Luxembourg](https://www.cryptolux.org/index.php/Home)

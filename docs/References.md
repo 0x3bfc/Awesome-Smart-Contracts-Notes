@@ -25,7 +25,7 @@
 
 ### Governance
 - [The Wood-Zamfir Governance Debates](https://medium.com/cryptolawreview/the-wood-zamfir-governance-debates-80e92436a457)
-- MakerDAO Governance Risk Framework[Part-1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101), [Part-2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9), [Part-3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077) 
+- MakerDAO Governance Risk Framework: [Part-1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101), [Part-2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9), [Part-3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077) 
 
 ### Signaling
 - [Mechanisms for Enforcing Honest Signaling](http://ices.gmu.edu/wp-content/uploads/2012/09/Mechanisms-for-Enforcing-Honest-Signaling-by-Ahern-and-Clark.pdf)

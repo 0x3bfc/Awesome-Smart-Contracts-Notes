@@ -6,6 +6,8 @@
 - [Ethereum Design-Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale)
 - [Ethereum 2.0 Specifications](https://github.com/ethereum/eth2.0-specs)
 
+### Solidity Patterns
+- [A collection of design and programming patterns for the smart contract](https://fravoll.github.io/solidity-patterns/)
 ### Vulnerability Registries
 - [SWC Registry: Smart Contract Weakness Classification and Test Cases](https://smartcontractsecurity.github.io/SWC-registry/)
 - [Decentralized Application Security Project (or DASP) Top 10 of 2018](https://www.dasp.co/)

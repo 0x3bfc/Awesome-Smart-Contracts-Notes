@@ -13,8 +13,10 @@
 - [SWC Registry: Smart Contract Weakness Classification and Test Cases](https://smartcontractsecurity.github.io/SWC-registry/)
 - [Decentralized Application Security Project (or DASP) Top 10 of 2018](https://www.dasp.co/)
 - [trailofbits/not-so-smart-contracts](https://github.com/trailofbits/not-so-smart-contracts)
+- [Classification of smart contract vulnerabilities](https://github.com/smartdec/classification)
 
 ### Cryptography
+- [Cryptography Coding Standard](https://cryptocoding.net/index.php/Cryptography_Coding_Standard)
 - [BLS signatures better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [CryptoLUX: University of Luxembourg](https://www.cryptolux.org/index.php/Home)
 - [Elliptic Curve Cryptography ECDH & ECDSA](http://andrea.corbellini.name/2015/05/30/elliptic-curve-cryptography-ecdh-and-ecdsa/)

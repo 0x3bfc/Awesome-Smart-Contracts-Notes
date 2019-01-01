@@ -32,6 +32,11 @@
 - [Mechanisms for Enforcing Honest Signaling](http://ices.gmu.edu/wp-content/uploads/2012/09/Mechanisms-for-Enforcing-Honest-Signaling-by-Ahern-and-Clark.pdf)
 - [The Determination of Financial Structure: The Incentive-Signalling Approach](https://www.jstor.org/stable/3003485?seq=1#metadata_info_tab_contents)
 
+### Oracle
+- [Town Crier: An Authenticated Data Feed for Smart Contracts](http://www.town-crier.org/)
+- [Realit.io: Crowd-sourced verification for smart contracts](https://realit.io/)
+- [TLSNotary A new kind of auditing - cryptographic proof of online accounts](https://tlsnotary.org/)
+
 ### Economics (token-engineering)
 - [Around the Block](https://cdn2.hubspot.net/hubfs/5014428/around_the_block.pdf)
 - [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)

@@ -8,11 +8,10 @@
 
 ### Solidity Patterns
 - [A collection of design and programming patterns for the smart contract](https://fravoll.github.io/solidity-patterns/)
+
 ### Vulnerability Registries
 - [SWC Registry: Smart Contract Weakness Classification and Test Cases](https://smartcontractsecurity.github.io/SWC-registry/)
 - [Decentralized Application Security Project (or DASP) Top 10 of 2018](https://www.dasp.co/)
-
-### Top-10 Vulnerabilities [Solidity Examples]:
 - [trailofbits/not-so-smart-contracts](https://github.com/trailofbits/not-so-smart-contracts)
 
 ### Cryptography

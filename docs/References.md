@@ -1,6 +1,7 @@
 ## References
 
 ### Official Documentation
+- [Ethereum Wiki - Safety](https://github.com/ethereum/wiki/wiki/Safety)
 - [Solidity Documentation](https://solidity.readthedocs.io/en/v0.5.0/)
 - [EVM Awesome list](https://github.com/ethereum/wiki/wiki/Ethereum-Virtual-Machine-(EVM)-Awesome-List)
 - [Ethereum Design-Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale)
@@ -14,6 +15,7 @@
 - [Decentralized Application Security Project (or DASP) Top 10 of 2018](https://www.dasp.co/)
 - [trailofbits/not-so-smart-contracts](https://github.com/trailofbits/not-so-smart-contracts)
 - [Classification of smart contract vulnerabilities](https://github.com/smartdec/classification)
+- [Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
 
 ### Cryptography
 - [Cryptography Coding Standard](https://cryptocoding.net/index.php/Cryptography_Coding_Standard)

@@ -6,6 +6,7 @@
 - [EVM Awesome list](https://github.com/ethereum/wiki/wiki/Ethereum-Virtual-Machine-(EVM)-Awesome-List)
 - [Ethereum Design-Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale)
 - [Ethereum 2.0 Specifications](https://github.com/ethereum/eth2.0-specs)
+- [From Solidity to Ethereum Bytecode: Understanding the compiler internals - VIDEO](https://www.youtube.com/watch?v=e7yZZILUjyM)
 
 ### Solidity Patterns
 - [A collection of design and programming patterns for the smart contract](https://fravoll.github.io/solidity-patterns/)
@@ -58,7 +59,6 @@
 - [POA Network Whitepaper](https://github.com/poanetwork/wiki/wiki/POA-Network-Whitepaper)
 
 ### Blog posts
-- [From Solidity to Ethereum Bytecode - understanding the compiler internals](https://www.youtube.com/watch?v=e7yZZILUjyM)
 - [Getting Deep into Ethereum Virtual Machine - EVM](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015)
 - [16 Solidity hacks vulnerabilities](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)
 - [Ethereum EVM illustrated - slides](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)

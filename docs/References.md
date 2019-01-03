@@ -54,6 +54,9 @@
 ### Acess Control
 - [The FROST Language: A trusted and user-centric access control language: Enabling delegation of fine-grained policies in shared ecosystems](https://xain.foundation/assets/downloads/xain-frost-yellow-paper.pdf)
 
+### Bridges
+- [POA Network Whitepaper](https://github.com/poanetwork/wiki/wiki/POA-Network-Whitepaper)
+
 ### Blog posts
 - [From Solidity to Ethereum Bytecode - understanding the compiler internals](https://www.youtube.com/watch?v=e7yZZILUjyM)
 - [Getting Deep into Ethereum Virtual Machine - EVM](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015)

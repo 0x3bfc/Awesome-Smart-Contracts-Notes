@@ -6,3 +6,4 @@
 - Blockchains as Kripke models: an Analysis of Atomic CrossChain Swap [slides](https://yoichihirai.com/isola.pdf), [draft](https://yoichihirai.com/isola-paper.pdf)
 - [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://orbilu.uni.lu/bitstream/10993/35862/1/smartcheck-paper.pdf)
 - [DIZK: A Distributed Zero Knowledge Proof System](https://eprint.iacr.org/2018/691.pdf)
+- [zeppelin os: An open-source, decentralized platform of tools and services on top of the EVM to develop and manage smart contract applications securely](https://zeppelinos.org/zeppelin_os_whitepaper.pdf)

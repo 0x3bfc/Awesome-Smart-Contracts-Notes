@@ -8,4 +8,4 @@
 - [DIZK: A Distributed Zero Knowledge Proof System](https://eprint.iacr.org/2018/691.pdf)
 - [zeppelin os: An open-source, decentralized platform of tools and services on top of the EVM to develop and manage smart contract applications securely](https://zeppelinos.org/zeppelin_os_whitepaper.pdf)
 
-**<<Back**
+**[<<Back](https://aabdulwahed.github.io/scs)**

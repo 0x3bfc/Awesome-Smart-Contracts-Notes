@@ -3,26 +3,26 @@
 This is a curated list of common design patterns
 ## Upgradability Patterns
 #### 1. Monolithic
-   - [TBC](#) 
+- [TBC](#) 
 #### 2. Proxy 
-   - [A guide for upgradable Ethereum contracts using Proxy pattern](https://blog.indorse.io/a-well-tested-guide-to-upgradeable-proxy-ethereum-smart-contracts-f4b5111c12b0)
-   - [Proxy Libraries in Solidity - OpenZeppelin](https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd)
+- [A guide for upgradable Ethereum contracts using Proxy pattern](https://blog.indorse.io/a-well-tested-guide-to-upgradeable-proxy-ethereum-smart-contracts-f4b5111c12b0)
+- [Proxy Libraries in Solidity - OpenZeppelin](https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd)
 #### 3. ICS (Storage-Logic)
-   - [Upgradable Storage-Logic Pattern](https://medium.com/cardstack/upgradable-contracts-in-solidity-d5af87f0f913)
+- [Upgradable Storage-Logic Pattern](https://medium.com/cardstack/upgradable-contracts-in-solidity-d5af87f0f913)
 #### 4. Factory 
-   - [TBC](#) 
+- [TBC](#) 
 
 
 ## Behavioral Patterns
 
 #### 1. Checks-Effects-Interactions Pattern
-   - [Solidity Documentation](https://solidity.readthedocs.io/en/develop/security-considerations.html#use-the-checks-effects-interactions-pattern)
+- [Solidity Documentation](https://solidity.readthedocs.io/en/develop/security-considerations.html#use-the-checks-effects-interactions-pattern)
 #### 2. Randomness
-   - [TBC]()
+- [TBC]()
 #### 3. Oracle  
-   - [TBC]()
+- [TBC]()
 #### 4. State Machine
-   - [TBC]()
+- [TBC]()
 
 ## Security Patterns
 #### 1. Access Control
@@ -36,6 +36,10 @@ This is a curated list of common design patterns
 #### 3. Tight Variable Packing 
 
 ## Template pattern
-   - [Template method pattern wikipedia](https://en.wikipedia.org/wiki/Template_method_pattern)
+- [Template method pattern wikipedia](https://en.wikipedia.org/wiki/Template_method_pattern)
+
+
+**[<<Back](https://aabdulwahed.github.io/scs)**
+
 
 

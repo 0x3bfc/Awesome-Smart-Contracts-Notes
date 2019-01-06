@@ -16,6 +16,7 @@
 - [trailofbits/not-so-smart-contracts](https://github.com/trailofbits/not-so-smart-contracts)
 - [Classification of smart contract vulnerabilities](https://github.com/smartdec/classification)
 - [Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
+- [A Survey of Attacks on Ethereum Smart Contracts](http://blockchain.unica.it/projects/ethereum-survey/index.html)
 
 ### Cryptography
 - [Cryptography Coding Standard](https://cryptocoding.net/index.php/Cryptography_Coding_Standard)

@@ -3,3 +3,6 @@
 
 ### Audits and registries
 - [sec-bit/Awesome buggy ERC20 tokens registry](https://github.com/sec-bit/awesome-buggy-erc20-tokens)
+
+
+**[<<Back](https://aabdulwahed.github.io/scs)**

@@ -63,5 +63,6 @@
 - [16 Solidity hacks vulnerabilities](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)
 - [Ethereum EVM illustrated - slides](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 - [From Solidity to Ethereum Bytecode: Understanding the compiler internals - VIDEO](https://www.youtube.com/watch?v=e7yZZILUjyM)
+- [Ethereum Explained: Merkle Trees, World State, Transactions, and More](https://pegasys.tech/ethereum-explained-merkle-trees-world-state-transactions-and-more/)
 
 **[<<Back](https://aabdulwahed.github.io/scs)**

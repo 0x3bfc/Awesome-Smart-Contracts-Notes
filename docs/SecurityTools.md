@@ -10,6 +10,11 @@
 - [eth-sri/Securify: smart contract security scanner](https://github.com/eth-sri/securify)
 - [smartdec/smartcheck: static analysis](https://github.com/smartdec/smartcheck)
 
+### Blog posts
+- [TrailOfBits: Use our suite of Ethereum security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)
+- [TrailOfBits: How to prepare for a security review](https://blog.trailofbits.com/2018/04/06/how-to-prepare-for-a-security-audit/)
+- [Publications from Trail of Bits](https://github.com/trailofbits/publications)
+
 ### Programming Languages that Compile zk-SNARK Circuits and Proofs
 - [ZoKrates: A toolbox for zkSNARKs on Ethereum](https://github.com/Zokrates/ZoKrates)
 - [Snarky: OCaml front-end for writing R1CS SNARKs](https://github.com/o1-labs/snarky)

@@ -45,6 +45,7 @@
 - [TLSNotary A new kind of auditing - cryptographic proof of online accounts](https://tlsnotary.org/)
 
 ### Economics (token-engineering)
+- [Token Bonding Curve Design Parameters](https://medium.com/@Paul.Haas/token-bonding-curve-design-parameters-95d365cbec4f)
 - [Around the Block](https://cdn2.hubspot.net/hubfs/5014428/around_the_block.pdf)
 - [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
 - [Bonding Curves In Depth: Intuition & Parametrization](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a)

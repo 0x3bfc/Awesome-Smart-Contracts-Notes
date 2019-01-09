@@ -9,6 +9,7 @@
 - [ConsenSys/mythril-classic](https://github.com/ConsenSys/mythril-classic)
 - [eth-sri/Securify: smart contract security scanner](https://github.com/eth-sri/securify)
 - [smartdec/smartcheck: static analysis](https://github.com/smartdec/smartcheck)
+- [slither a solidity static analysis framework](https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/)
 
 ### Blog posts
 - [TrailOfBits: Use our suite of Ethereum security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)

@@ -7,7 +7,7 @@
 This work is meant to be a curated list of common security issues in decentralized apps and smart contract vector attacks. It addresses most of them  by providing a working test cases, examples, references and extra readings.
 
 1. [Vector Attacks](docs/VectorAttacks.md)
-2. [Registry](docs/Registry.md)
+2. [Registries](docs/Registry.md)
 3. [Design Patterns](docs/DesignPatterns.md)
 4. [Research Papers](docs/ResearchPapers.md)
 5. [Security Tools](docs/SecurityTools.md)

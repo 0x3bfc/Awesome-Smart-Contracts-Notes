@@ -65,5 +65,6 @@
 - [Ethereum EVM illustrated - slides](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 - [From Solidity to Ethereum Bytecode: Understanding the compiler internals - VIDEO](https://www.youtube.com/watch?v=e7yZZILUjyM)
 - [Ethereum Explained: Merkle Trees, World State, Transactions, and More](https://pegasys.tech/ethereum-explained-merkle-trees-world-state-transactions-and-more/)
+- [zepcon0 - ZeppelinOS - Upgradeability by Elena Nadolinski](https://www.youtube.com/watch?v=FzmzUHLiutg)
 
 **[<<Back](https://aabdulwahed.github.io/scs)**

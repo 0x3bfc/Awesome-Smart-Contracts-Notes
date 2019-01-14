@@ -11,7 +11,9 @@ This is a curated list of common design patterns
 - [Upgradable Storage-Logic Pattern](https://medium.com/cardstack/upgradable-contracts-in-solidity-d5af87f0f913)
 #### 4. Factory 
 - [TBC](#) 
-
+#### 5. Eternal Storage
+#### 6. Unstructured Storage
+#### 7. Transparent Storage
 
 ## Behavioral Patterns
 

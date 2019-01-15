@@ -12,6 +12,7 @@ This work is meant to be a curated list of common security issues in decentraliz
 4. [Research Papers](docs/ResearchPapers.md)
 5. [Security Tools](docs/SecurityTools.md)
 6. [References](docs/References.md)
+7. [Notes](notes.md)
 
 ## Contributing
 For any new issue, feature, or update, create a pull request and we will add it there. Ping me on [twitter](https://twitter.com/aabdolwahed) or [linkedIn](https://www.linkedin.com/in/aabdulwahed/). Find [here](https://aabdulwahed.github.io/scs) the online web version of this repo.

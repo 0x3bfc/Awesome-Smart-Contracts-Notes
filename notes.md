@@ -3,6 +3,7 @@
 ### 1. ZeppelinOS Upgradability checklist
 
 ##### Contracts
+
 - [ ] You must add initializers. 
 - [ ] Don't forget to initialize the inherited contracts
 - [ ] Make sure that all the initial values are set in an initializer function. Otherwise,
@@ -16,6 +17,7 @@ pass the instance of that contract to initialize function
 - [ ] be careful with the solidity inheretance linearization 
   - [ ] Avoid base contracts swapping
   - [ ] Avoid adding new variables to the base contracts. A workaround for this is to declare unused variables on base contracts that you may want to extend in the future, as a means of "reserving" those slots. Note that this trick does not involve increased gas usage.
+
 ##### Unit testing
 
 - [ ] ZOS provides `TestHelper()` function which in turn returns project structure from `ZOS.json`

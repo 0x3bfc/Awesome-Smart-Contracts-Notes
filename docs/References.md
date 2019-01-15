@@ -1,6 +1,7 @@
 ## References
 
 ### Official Documentation
+- [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Ethereum Wiki - Safety](https://github.com/ethereum/wiki/wiki/Safety)
 - [Solidity Documentation](https://solidity.readthedocs.io/en/v0.5.0/)
 - [EVM Awesome list](https://github.com/ethereum/wiki/wiki/Ethereum-Virtual-Machine-(EVM)-Awesome-List)

@@ -41,7 +41,7 @@ This is a curated list of common design patterns
 - [Template method pattern wikipedia](https://en.wikipedia.org/wiki/Template_method_pattern)
 
 
-**[<<Back](https://aabdulwahed.github.io/scs)**
+**[<<Back](https://aabdulwahed.github.io/Smart-Contracts-Notes/)**
 
 
 

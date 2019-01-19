@@ -4,4 +4,4 @@
 - [OpenZeppelin audit](https://github.com/OpenZeppelin/openzeppelin-eth/blob/master/audit/ZeppelinAudit.md)
 - [Failure to set gasLimit appropriately enables abuse](https://drive.google.com/file/d/1mULop1LxHJJy_uzVBdc_xFItN9ck04Jj/view)
 
-**[<<Back](https://aabdulwahed.github.io/scs)**
+**[<<Back](https://aabdulwahed.github.io/Smart-Contracts-Notes/)**

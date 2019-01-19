@@ -1,9 +1,15 @@
 pragma solidity ^0.4.25;
 
 contract LowLevelCallsExample{
-    mapping(address => bytes32[]) assets;
-    function register(bytes32 asset) public returns(bool){
+    mapping(address => bytes32[]) public assets;
+    
+    function register(bytes32 asset) external returns(bool){
         assets[msg.sender].push(asset);
+        return true;
+    }
+    
+    function getRegisterSelector() public returns(bytes4){
+        return this.register.selector;
     }
 }
 
@@ -16,6 +22,7 @@ contract CallCodeCaller{
     }
     
     function registerAsset(bytes32 asset) public returns(bool){
+        // should return false ... unknown function selector
         return callee.callcode.gas(1000000).value(1 ether)('register', asset);
     }
 }
@@ -59,6 +66,30 @@ contract DelegateCalls{
     )
     public
     returns (bool){
-        return _callee.delegatecall(bytes4(keccak256('register')), _number);
+        return _callee.delegatecall(
+            // function selector 4 bytes
+            bytes4(
+                keccak256('register(uint256)')
+            ), 
+            // hash --> bytes32
+            keccak256(
+                abi.encodePacked(_number))
+            );
+    }
+    
+    function getHash(uint _number) public pure returns(bytes32){
+        return keccak256(
+                abi.encodePacked(_number)
+            );
     }
 }
+
+
+contract TestCall{
+    function testcall(address _callee, uint _number) public returns(bool){
+        return _callee.call.gas(10000000).value(1 ether)(bytes4(
+            keccak256('register(bytes32)')),
+            keccak256(_number));
+    }
+}
+

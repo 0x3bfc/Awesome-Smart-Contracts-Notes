@@ -1,0 +1,15 @@
+{
+  "name": "00samplecontract",
+  "version": "1.0.0",
+  "description": "ls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmedaabdulwahed@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.1.1",
+    "truffle": "^5.0.2"
+  }
+}

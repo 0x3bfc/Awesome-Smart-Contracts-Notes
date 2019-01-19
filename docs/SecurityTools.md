@@ -26,4 +26,4 @@
 ### Homomorphic Encryption
 - [Homomorphic Encryption tool - SEAL, Microsoft](https://github.com/Microsoft/SEAL)
 
-**[<<Back](https://aabdulwahed.github.io/scs)**
+**[<<Back](https://aabdulwahed.github.io/Smart-Contracts-Notes/)**

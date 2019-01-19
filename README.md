@@ -18,4 +18,4 @@ This work is meant to be a curated list of common security issues in decentraliz
 
 
 ## Contributing
-For any new issue, feature, or update, create a pull request and we will add it there. Ping me on [twitter](https://twitter.com/aabdolwahed) or [linkedIn](https://www.linkedin.com/in/aabdulwahed/). Find [here](https://aabdulwahed.github.io/scs) the online web version of this repo.
+For any new issue, feature, or update, create a pull request and we will add it there. Ping me on [twitter](https://twitter.com/aabdolwahed) or [linkedIn](https://www.linkedin.com/in/aabdulwahed/). Find [here](https://aabdulwahed.github.io/Smart-Contracts-Notes/) the online web version of this repo.

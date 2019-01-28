@@ -60,6 +60,9 @@
 ### Bridges
 - [POA Network Whitepaper](https://github.com/poanetwork/wiki/wiki/POA-Network-Whitepaper)
 
+### Self-sovereign Identity 
+- [The Self-sovereign Identity Stack](https://medium.com/@oliver.terbu/the-self-sovereign-identity-stack-8a2cc95f2d45)
+
 ### Blog posts & Videos
 - [Getting Deep into Ethereum Virtual Machine - EVM](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015)
 - [16 Solidity hacks vulnerabilities](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)

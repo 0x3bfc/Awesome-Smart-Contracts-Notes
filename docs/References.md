@@ -30,6 +30,9 @@
 - [Shamirs Secret Sharing Scheme](https://ericrafaloff.com/shamirs-secret-sharing-scheme/)
 - [History of Hash Function Attacks](https://z.cash/blog/hash-functions/)
 
+### Zero-Knowledge whitepapers
+- [PRESERVING TRANSACTIONAL PRIVACY ON DISTRIBUTED LEDGERS USING ZERO-KNOWLEDGE PROOFS](https://qed-it.com/wp-content/uploads/2019/01/Preserving-Transactional-Privacy-on-Distributed-Ledgers-using-Zero-Knowledge-Proofs.pdf)
+
 ### Governance
 - [The Wood-Zamfir Governance Debates](https://medium.com/cryptolawreview/the-wood-zamfir-governance-debates-80e92436a457)
 - MakerDAO Governance Risk Framework: [Part-1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101), [Part-2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9), [Part-3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077) 

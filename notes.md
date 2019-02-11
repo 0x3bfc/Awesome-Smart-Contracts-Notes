@@ -25,3 +25,6 @@ pass the instance of that contract to initialize function
 - [ ] To generate new instance of contracts use `createProxy` function
 - [ ] Truffle does not know how to resolve situations where contracts has functions
 that have matching names but different operands or arguments. For unit test call `initialize` manually by using `encodeCall`
+
+##### Recommended
+ - [ ] [Zeppelin OS The transparent proxy pattern](https://blog.zeppelinos.org/the-transparent-proxy-pattern/)

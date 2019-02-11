@@ -14,7 +14,7 @@ This work is meant to be a curated list of common security issues in decentraliz
 6. [Useful Repositories](docs/UsefulRepos.md)
 7. [Notes & Checklists](notes.md)
 8. [Solidity By Example](examples/)
-9. [Library Driven Development](https://blog.aragon.org/library-driven-development-in-solidity-2bebcaf88736/)
+9. [Solidity Library Tricks](sollib.md)
 8. [References](docs/References.md)
 
 

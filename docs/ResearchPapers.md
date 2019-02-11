@@ -8,5 +8,5 @@
 - [DIZK: A Distributed Zero Knowledge Proof System](https://eprint.iacr.org/2018/691.pdf)
 - [zeppelin os: An open-source, decentralized platform of tools and services on top of the EVM to develop and manage smart contract applications securely](https://zeppelinos.org/zeppelin_os_whitepaper.pdf)
 - [Smart Contracts as a Form of Solely Automated Processing Under the GDPR](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3311370#)
-
+- [BLOCKBENCH: A Framework for Analyzing Private Blockchains](https://www.comp.nus.edu.sg/~ooibc/blockbench.pdf)
 **[<<Back](https://aabdulwahed.github.io/Smart-Contracts-Notes/)**

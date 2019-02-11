@@ -13,6 +13,7 @@ This work is meant to be a curated list of common security issues in decentraliz
 5. [Security Tools](docs/SecurityTools.md)
 6. [Useful Repositories](docs/UsefulRepos.md)
 7. [Awesome Blogs](blogs.md)
+9. [Awesome Playlists](docs/videos.md)
 7. [Notes & Checklists](notes.md)
 8. [Solidity By Example](examples/)
 9. [Solidity Library Tricks](sollib.md)

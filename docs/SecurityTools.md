@@ -16,6 +16,8 @@
 - [TrailOfBits: How to prepare for a security review](https://blog.trailofbits.com/2018/04/06/how-to-prepare-for-a-security-audit/)
 - [Publications from Trail of Bits](https://github.com/trailofbits/publications)
 - [Introducing Sonic: A Practical zk-SNARK with a Nearly Trustless Setup](https://www.benthamsgaze.org/2019/02/07/introducing-sonic-a-practical-zk-snark-with-a-nearly-trustless-setup/)
+### Vulnerability Lists
+- [trailofbits/wiki/Detectors-Documentation](https://github.com/trailofbits/slither/wiki/Detectors-Documentation)
 
 ### Programming Languages that Compile zk-SNARK Circuits and Proofs
 - [ZoKrates: A toolbox for zkSNARKs on Ethereum](https://github.com/Zokrates/ZoKrates)

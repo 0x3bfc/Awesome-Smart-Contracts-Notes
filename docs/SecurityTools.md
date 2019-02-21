@@ -29,4 +29,10 @@
 ### Homomorphic Encryption
 - [Homomorphic Encryption tool - SEAL, Microsoft](https://github.com/Microsoft/SEAL)
 
+### Verifiable Delay Functions (VDFs)
+- [Verifiable Delay Functions - Dan Boneh](https://www.youtube.com/watch?v=dN-1q8c50q0)
+- [VDFs and Filecoin - Jeromy Johnson](https://www.youtube.com/watch?v=GZZ2G9bPXsM)
+- [Low Latency Modular Multiplication - Erdinc Ozturk](https://www.youtube.com/watch?v=ITf4Wt2YgDE)
+- [A Hybrid VDF Prover - Benjamin Wesolowski](https://www.youtube.com/watch?v=NtzNdsbkFt0)
+
 **[<<Back](https://aabdulwahed.github.io/Smart-Contracts-Notes/)**

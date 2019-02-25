@@ -56,7 +56,7 @@
 - [Exploring Bonding Curve Collateral](https://medium.com/protea/exploring-bonding-curve-collateral-c37d4f922bbd)
 - [On bonding curves and charitable giving](https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2)
 - [Collateral as a parameter in TBC design](https://medium.com/@LinumLabs/13b818b7c73e)
-
+- [Behavioral Economics and Psychology of Incentives](http://faculty.chicagobooth.edu/emir.kamenica/documents/behavioralIncentives.pdf)
 ### Access Control
 - [The FROST Language: A trusted and user-centric access control language: Enabling delegation of fine-grained policies in shared ecosystems](https://xain.foundation/assets/downloads/xain-frost-yellow-paper.pdf)
 

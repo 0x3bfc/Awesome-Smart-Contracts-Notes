@@ -32,6 +32,8 @@
 
 ### Zero-Knowledge whitepapers
 - [PRESERVING TRANSACTIONAL PRIVACY ON DISTRIBUTED LEDGERS USING ZERO-KNOWLEDGE PROOFS](https://qed-it.com/wp-content/uploads/2019/01/Preserving-Transactional-Privacy-on-Distributed-Ledgers-using-Zero-Knowledge-Proofs.pdf)
+- [STARK Math: The Journey Begins - Part 1](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71)
+- [STARK Math: The Journey Begins - Part 2](https://medium.com/starkware/arithmetization-i-15c046390862)
 
 ### Governance
 - [The Wood-Zamfir Governance Debates](https://medium.com/cryptolawreview/the-wood-zamfir-governance-debates-80e92436a457)

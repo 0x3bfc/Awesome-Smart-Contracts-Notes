@@ -35,6 +35,13 @@
 - [STARK Math: The Journey Begins - Part 1](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71)
 - [STARK Math: The Journey Begins - Part 2](https://medium.com/starkware/arithmetization-i-15c046390862)
 
+### Scalability
+- [TrueBit: A scalable verification solution for blockchains](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf)
+- [Gluon Plasma: A Plasma Variant for Non-custodial Exchanges](https://leverj.io/GluonPlasma.pdf)
+- [dFusion: Decentralized Scalable Onchain Exchange](https://github.com/gnosis/dex-research/blob/master/dFusion/dFusion.rst)
+- [RollUp: scale ethereum with snarks](https://github.com/barryWhiteHat/roll_up)
+- [MatterNetwork: PoC of SNARK-driven Plasma with up to 500 tx/sec ](https://github.com/matter-labs/matter-network)
+
 ### Governance
 - [The Wood-Zamfir Governance Debates](https://medium.com/cryptolawreview/the-wood-zamfir-governance-debates-80e92436a457)
 - MakerDAO Governance Risk Framework: [Part-1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101), [Part-2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9), [Part-3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077) 

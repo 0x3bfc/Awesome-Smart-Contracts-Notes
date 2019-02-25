@@ -38,6 +38,7 @@
 - MakerDAO Governance Risk Framework: [Part-1](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101), [Part-2](https://medium.com/makerdao/makerdao-governance-risk-framework-fc8939f3d4e9), [Part-3](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077) 
 - [Blockchain Governance Bibliography](https://medium.com/cryptolawreview/blockchain-governance-bibliography-360efc52d3f9)
 - [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
+- [Distributed governance (DGov) community](https://wiki.dgov.foundation/)
 
 ### Signaling
 - [Mechanisms for Enforcing Honest Signaling](http://ices.gmu.edu/wp-content/uploads/2012/09/Mechanisms-for-Enforcing-Honest-Signaling-by-Ahern-and-Clark.pdf)

@@ -48,7 +48,8 @@
 - [Blockchain Governance Bibliography](https://medium.com/cryptolawreview/blockchain-governance-bibliography-360efc52d3f9)
 - [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
 - [Distributed governance (DGov) community](https://wiki.dgov.foundation/)
-
+### Upgradability
+- [Contracts upgrade anti-patterns - trail of bits](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
 ### Signaling
 - [Mechanisms for Enforcing Honest Signaling](http://ices.gmu.edu/wp-content/uploads/2012/09/Mechanisms-for-Enforcing-Honest-Signaling-by-Ahern-and-Clark.pdf)
 - [The Determination of Financial Structure: The Incentive-Signalling Approach](https://www.jstor.org/stable/3003485?seq=1#metadata_info_tab_contents)

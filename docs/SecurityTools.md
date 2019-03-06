@@ -3,6 +3,9 @@
 ### Upgradability tools
 - [Zeppelin-OS](https://zeppelinos.org/)
 
+### Static Analysis
+- [Echidna: Ethereum fuzz testing framework](https://github.com/trailofbits/echidna)
+
 ### Reporting tools
 - [ConsenSys/Surya: A Solidity Inspector](https://github.com/ConsenSys/surya)
 ### Security analysis tools

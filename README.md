@@ -4,7 +4,7 @@
  **Disclaimer: This is a work in progress**
 
 
-This work is meant to be a curated list of common security issues in decentralized apps and smart contract vector attacks. It addresses most of them  by providing a working test cases, examples, references and extra readings.
+This work is meant to be a curated list of common security issues in decentralized apps and smart contract vector attacks. It addresses most of them  by providing a working test cases, [examples](examples/), [references](docs/References.md) and extra readings.
 
 1. [Vector Attacks](docs/VectorAttacks.md)
 2. [Symbolic Execution](docs/symbolicExec.md)

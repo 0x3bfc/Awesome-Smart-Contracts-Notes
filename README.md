@@ -8,6 +8,7 @@ This work is meant to be a curated list of common security issues in decentraliz
 
 1. [Vector Attacks](docs/VectorAttacks.md)
 2. [Symbolic Execution](docs/symbolicExec.md)
+3. [Static Analaysis](docs/staticAnalaysis.md)
 2. [Registries & Audits](docs/Registry.md)
 3. [Design Patterns](docs/DesignPatterns.md)
 4. [Research Papers](docs/ResearchPapers.md)

@@ -50,6 +50,7 @@
 - [Distributed governance (DGov) community](https://wiki.dgov.foundation/)
 ### Upgradability
 - [Contracts upgrade anti-patterns - trail of bits](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
+- [Contract upgrade risks and recommendations - Trail of Bits](https://www.youtube.com/watch?v=mebA5Qz9zeQ)
 ### Signaling
 - [Mechanisms for Enforcing Honest Signaling](http://ices.gmu.edu/wp-content/uploads/2012/09/Mechanisms-for-Enforcing-Honest-Signaling-by-Ahern-and-Clark.pdf)
 - [The Determination of Financial Structure: The Incentive-Signalling Approach](https://www.jstor.org/stable/3003485?seq=1#metadata_info_tab_contents)

@@ -86,4 +86,7 @@
 - [Ethereum Explained: Merkle Trees, World State, Transactions, and More](https://pegasys.tech/ethereum-explained-merkle-trees-world-state-transactions-and-more/)
 - [zepcon0 - ZeppelinOS - Upgradeability by Elena Nadolinski](https://www.youtube.com/watch?v=FzmzUHLiutg)
 
+### General Security Concepts
+- [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+
 **[<<Back](https://aabdulwahed.github.io/Smart-Contracts-Notes/)**

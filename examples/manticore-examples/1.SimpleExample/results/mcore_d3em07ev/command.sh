@@ -1,0 +1,1 @@
+/usr/local/bin/manticore /src/contracts/SimpleExample.sol --workspace.dir /src/results/

@@ -1,0 +1,72 @@
+*   0: PUSH1 0x80
+*   2: PUSH1 0x40
+*   4: MSTORE
+*   5: PUSH1 0x4
+*   7: CALLDATASIZE
+*   8: LT
+*   9: PUSH1 0x39
+*   b: JUMPI
+*   c: PUSH1 0x0
+*   e: CALLDATALOAD
+*   f: PUSH29 0x100000000000000000000000000000000000000000000000000000000
+*  2d: SWAP1
+*  2e: DIV
+*  2f: DUP1
+*  30: PUSH4 0x2fbebd38
+*  35: EQ
+*  36: PUSH1 0x3e
+*  38: JUMPI
+*  39: JUMPDEST
+*  3a: PUSH1 0x0
+*  3c: DUP1
+*  3d: REVERT
+*  3e: JUMPDEST
+*  3f: PUSH1 0x67
+*  41: PUSH1 0x4
+*  43: DUP1
+*  44: CALLDATASIZE
+*  45: SUB
+*  46: PUSH1 0x20
+*  48: DUP2
+*  49: LT
+*  4a: ISZERO
+*  4b: PUSH1 0x52
+*  4d: JUMPI
+   4e: PUSH1 0x0
+   50: DUP1
+   51: REVERT
+*  52: JUMPDEST
+*  53: DUP2
+*  54: ADD
+*  55: SWAP1
+*  56: DUP1
+*  57: DUP1
+*  58: CALLDATALOAD
+*  59: SWAP1
+*  5a: PUSH1 0x20
+*  5c: ADD
+*  5d: SWAP1
+*  5e: SWAP3
+*  5f: SWAP2
+*  60: SWAP1
+*  61: POP
+*  62: POP
+*  63: POP
+*  64: PUSH1 0x69
+*  66: JUMP
+*  67: JUMPDEST
+*  68: STOP
+*  69: JUMPDEST
+*  6a: PUSH1 0x28
+*  6c: DUP2
+*  6d: EQ
+*  6e: ISZERO
+*  6f: PUSH1 0x76
+*  71: JUMPI
+*  72: PUSH1 0x0
+*  74: DUP1
+*  75: REVERT
+*  76: JUMPDEST
+*  77: POP
+*  78: JUMP
+   79: INVALID

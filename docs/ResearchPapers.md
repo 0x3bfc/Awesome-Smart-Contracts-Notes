@@ -10,5 +10,6 @@
 - [Smart Contracts as a Form of Solely Automated Processing Under the GDPR](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3311370#)
 - [BLOCKBENCH: A Framework for Analyzing Private Blockchains](https://www.comp.nus.edu.sg/~ooibc/blockbench.pdf)
 - [Deconstructing the Blockchain to Approach Physical Limits](https://arxiv.org/pdf/1810.08092.pdf)
+- [The Attack of the Clones against Proof-of-Authority](https://arxiv.org/pdf/1902.10244.pdf)
 
 **[<<Back](https://aabdulwahed.github.io/Smart-Contracts-Notes/)**

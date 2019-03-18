@@ -1,5 +1,5 @@
 ### Reading and Core concepts
-- [Basic Symbolic Execution](https://www.youtube.com/watch?v=k6GbaJq-aFo)
+- [Symbolic Execution my playlist](https://www.youtube.com/watch?v=FlzroEd4pnw&list=PLXICrha0Si3ovkyX3_rSpfUNqSpp1P3oE)
 - [Satisfiability modulo theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)
 - [Conjunctive normal form](https://en.wikipedia.org/wiki/Conjunctive_normal_form)
 - [Algebra: Systems of linear inequalities](https://www.mathplanet.com/education/algebra-1/systems-of-linear-equations-and-inequalities/systems-of-linear-inequalities)

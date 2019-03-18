@@ -6,4 +6,4 @@
 - [Manticore Workshop - EthCC 2018](https://github.com/trailofbits/publications/tree/master/workshops/Manticore%20-%20EthCC%202018)
 
 ### Examples
-- [Introduction examples using Manticore](../examples/manticore)
+- [Introduction examples using Manticore](../examples/manticore-examples)

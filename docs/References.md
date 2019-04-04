@@ -50,6 +50,9 @@
 - [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
 - [Distributed governance (DGov) community](https://wiki.dgov.foundation/)
 ### Upgradability
+- [upgradeability using unstructured storage](https://github.com/zeppelinos/labs/tree/ff479995ed90c4dbb5e32294fa95b16a22bb99c8/upgradeability_using_unstructured_storage)
+- [upgradeability using eternal storage](https://github.com/zeppelinos/labs/tree/ff479995ed90c4dbb5e32294fa95b16a22bb99c8/upgradeability_using_eternal_storage)
+- [upgradeability using inherited storage](https://github.com/zeppelinos/labs/tree/ff479995ed90c4dbb5e32294fa95b16a22bb99c8/upgradeability_using_inherited_storage)
 - [Layout of state variables in storage - Solidity Official Documentation](https://solidity.readthedocs.io/en/v0.5.3/miscellaneous.html#layout-of-state-variables-in-storage)
 - [Contracts upgrade anti-patterns - trail of bits](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
 - [Contract upgrade risks and recommendations - Trail of Bits](https://www.youtube.com/watch?v=mebA5Qz9zeQ)

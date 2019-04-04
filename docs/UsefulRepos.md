@@ -1,5 +1,6 @@
 ## Manually Curated Repos
 - [crytic/ethersplay: EVM dissassembler](https://github.com/crytic/ethersplay)
+- [ZeppelinOS Labs Repo](https://github.com/zeppelinos/labs)
 - [facuspagnuolo/ethereum-in-depth](https://github.com/facuspagnuolo/ethereum-in-depth)
 - [ConsenSys/evm-analyzer-benchmark-suite](https://github.com/ConsenSys/evm-analyzer-benchmark-suite)
 - [crytic/awesome-ethereum-security](https://github.com/aabdulwahed/awesome-ethereum-security)

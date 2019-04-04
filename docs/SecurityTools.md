@@ -3,6 +3,8 @@
 ### Upgradability tools
 - [Zeppelin-OS](https://zeppelinos.org/)
 
+### EVM Dissassembler
+- [crytic/ethersplay: EVM dissassembler](https://github.com/crytic/ethersplay)
 ### Static Analysis
 - [Echidna: Ethereum fuzz testing framework](https://github.com/trailofbits/echidna)
 

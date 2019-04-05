@@ -1,5 +1,6 @@
-# Security & Cryptography tools
-
+# Awesome tools
+### Solidity Compiler Selector
+- [solc-select: A script to quickly switch between Solidity compiler versions](https://github.com/crytic/solc-select)
 ### Upgradability tools
 - [Zeppelin-OS](https://zeppelinos.org/)
 

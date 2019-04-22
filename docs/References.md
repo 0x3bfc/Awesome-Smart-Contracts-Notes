@@ -32,6 +32,7 @@
 
 ### Zero-Knowledge whitepapers
 - [The 9th BIU Winter School on Cryptography](https://cyber.biu.ac.il/event/the-9th-biu-winter-school-on-cryptography/)
+- [ZKProof Community: ZKStarks A deep dive into FRI Protocol](https://community.zkproof.org/t/zkstarks-a-deep-dive-into-the-fri-protocol/119/2)
 - [PRESERVING TRANSACTIONAL PRIVACY ON DISTRIBUTED LEDGERS USING ZERO-KNOWLEDGE PROOFS](https://qed-it.com/wp-content/uploads/2019/01/Preserving-Transactional-Privacy-on-Distributed-Ledgers-using-Zero-Knowledge-Proofs.pdf)
 - [STARK Math: The Journey Begins - Part 1](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71)
 - [STARK Math: The Journey Begins - Part 2](https://medium.com/starkware/arithmetization-i-15c046390862)

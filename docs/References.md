@@ -20,6 +20,7 @@
 - [A Survey of Attacks on Ethereum Smart Contracts](http://blockchain.unica.it/projects/ethereum-survey/index.html)
 
 ### Cryptography
+- [Introduction to cryptography](https://medium.com/@lduck11007/a-crash-course-in-everything-cryptographic-50daa0fda482)
 - [Cryptography Coding Standard](https://cryptocoding.net/index.php/Cryptography_Coding_Standard)
 - [BLS signatures better than Schnorr](https://medium.com/cryptoadvance/bls-signatures-better-than-schnorr-5a7fe30ea716)
 - [CryptoLUX: University of Luxembourg](https://www.cryptolux.org/index.php/Home)

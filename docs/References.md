@@ -30,6 +30,7 @@
 - [Predicting RNGs in Smart Contracts - Blogpost](https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620)
 - [Shamirs Secret Sharing Scheme](https://ericrafaloff.com/shamirs-secret-sharing-scheme/)
 - [History of Hash Function Attacks](https://z.cash/blog/hash-functions/)
+- [Erasure code](https://en.wikipedia.org/wiki/Erasure_code)
 
 ### Zero-Knowledge whitepapers
 - [The 9th BIU Winter School on Cryptography](https://cyber.biu.ac.il/event/the-9th-biu-winter-school-on-cryptography/)

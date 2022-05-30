@@ -13,7 +13,7 @@ This work is meant to be a curated list of common security issues in decentraliz
 3. [Design Patterns](docs/DesignPatterns.md)
 4. [Research Papers](docs/ResearchPapers.md)
 5. [Security Tools](docs/SecurityTools.md)
-6. [Testing Tools)(docs/TestingTools.md)
+6. [Testing Tools](docs/TestingTools.md)
 7. [Useful Repositories](docs/UsefulRepos.md)
 8. [Awesome Blogs](blogs.md)
 9. [Awesome Playlists](docs/videos.md)

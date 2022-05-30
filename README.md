@@ -13,14 +13,15 @@ This work is meant to be a curated list of common security issues in decentraliz
 3. [Design Patterns](docs/DesignPatterns.md)
 4. [Research Papers](docs/ResearchPapers.md)
 5. [Security Tools](docs/SecurityTools.md)
-6. [Useful Repositories](docs/UsefulRepos.md)
-7. [Awesome Blogs](blogs.md)
+6. [Testing Tools)(docs/TestingTools.md)
+7. [Useful Repositories](docs/UsefulRepos.md)
+8. [Awesome Blogs](blogs.md)
 9. [Awesome Playlists](docs/videos.md)
-7. [Notes & Checklists](notes.md)
-8. [Solidity By Example](examples/)
-9. [Solidity Library Tricks](sollib.md)
-10. [Solidity based online wargame](https://ethernaut.zeppelin.solutions/)
-8. [References](docs/References.md)
+10. [Notes & Checklists](notes.md)
+11. [Solidity By Example](examples/)
+12. [Solidity Library Tricks](sollib.md)
+13. [Solidity based online wargame](https://ethernaut.zeppelin.solutions/)
+14. [References](docs/References.md)
 
 
 ## Contributing

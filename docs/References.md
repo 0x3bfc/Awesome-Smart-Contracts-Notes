@@ -96,5 +96,6 @@
 
 ### General Security Concepts
 - [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+- [A Tool for Detecting Metamorphic Smart Contracts](https://a16zcrypto.com/metamorphic-smart-contract-detector-tool/)
 
 **[<<Back](https://aabdulwahed.github.io/Smart-Contracts-Notes/)**

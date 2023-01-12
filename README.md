@@ -22,6 +22,7 @@ This work is meant to be a curated list of common security issues in decentraliz
 12. [Solidity Library Tricks](sollib.md)
 13. [Solidity based online wargame](https://ethernaut.zeppelin.solutions/)
 14. [References](docs/References.md)
+15. [EVM analysis tools](docs/EVMAnalaysisTools.md)
 
 
 ## Contributing

@@ -4,3 +4,4 @@
 - [MadMax](https://github.com/nevillegrech/MadMax)
 - [Mythril](https://github.com/ConsenSys/mythril)
 - [Securify2](https://github.com/eth-sri/securify2)
+- [Yools - Experimental symbolic execution engine for Yul](https://github.com/leonardoalt/yools)
